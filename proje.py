@@ -1,5 +1,0 @@
-start = int(input('start:'))
-end = int(input('end:'))
-number_of_processes = int(input('number_of_processes:'))
-max_burst_time = int(input('max_burst_time:'))
-itteration = int(input('itteration:'))
